@@ -4,7 +4,7 @@
   "version": "0.2.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:fheng/fh-security.git"
+    "url": "git@github.com:feedhenry/fh-security.git"
   },
   "main": "./lib/security.js",
   "directories": {
