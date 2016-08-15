@@ -1,7 +1,7 @@
 {
   "name": "fh-security",
   "description": "FeedHenry Security Library",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "repository": {
     "type": "git",
     "url": "git@github.com:feedhenry/fh-security.git"
@@ -14,7 +14,7 @@
     "test": "grunt eslint fh:test"
   },
   "engines": {
-    "node": "*"
+    "node": "4.4"
   },
   "devDependencies": {
     "eslint": "^2.7.0",
