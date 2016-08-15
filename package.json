@@ -14,7 +14,7 @@
     "test": "grunt eslint fh:test"
   },
   "engines": {
-    "node": "*"
+    "node": "4.4"
   },
   "devDependencies": {
     "eslint": "^2.7.0",
