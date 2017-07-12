@@ -1,6 +1,6 @@
 {
   "name": "fh-security",
-  "version": "0.1.8-BUILD-NUMBER",
+  "version": "0.2.1",
   "dependencies": {
     "node-rsa": {
       "version": "0.3.2",
