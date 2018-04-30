@@ -3,3 +3,4 @@ coverage/
 plato/
 output/
 dist/
+.idea/*
