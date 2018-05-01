@@ -1,7 +1,7 @@
 'use strict';
 
 const assert = require('chai').assert;
-const sec = require('../lib/security.js').security;
+const sec = require('../../lib/security.js').security;
 
 describe("AES encrypt/decrypt", function() {
   const keySizes = [128, 256];
