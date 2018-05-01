@@ -1,7 +1,7 @@
 'use strict';
 
 const assert = require('chai').assert;
-const sec = require('../lib/security.js').security;
+const sec = require('../../lib/security.js').security;
 
 describe("RSA encrypt/decrypt", function() {
   const plaintext = 'This is test text';
